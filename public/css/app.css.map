@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAEA;EACE,iBAAiB,EAIlB;EALD;IAGI,eAAe,EAChB","file":"app.css","sourcesContent":["// @import \"node_modules/bootstrap-sass/assets/stylesheets/bootstrap\";\n\n.body{\n  background: #ccc;\n  .wrapper{\n    margin: 0 auto;\n  }\n}\n"]}

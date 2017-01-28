@@ -1,0 +1,10 @@
+.new-post{
+    padding: 16px 0;
+}
+.posts .post {
+    margin-bottom: 30px;
+}
+.posts .post .info{
+    color: #aaa;
+    font-style: italic;
+}
